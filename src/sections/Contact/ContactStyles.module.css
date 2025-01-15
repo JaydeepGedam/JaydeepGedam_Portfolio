@@ -60,6 +60,11 @@ input[type='submit']:active {
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
 }
 
+.successMsg{
+  margin-top: 15px;
+  font-size: 20px;
+}
+
 @media (width >= 800px) {
   textarea,
   input:not([type='submit']) {
